@@ -1,5 +1,5 @@
 # Имя вашего бота
-botname = "NAME"
+botname = "IPxKINGYT™"
 # Сюда токен
-token = "TOKEN"
+token = "5666691064:AAEc9SjtpIy79mvqxGPCcHufRH03LZNVSsU"
 # Код бота в main.py
